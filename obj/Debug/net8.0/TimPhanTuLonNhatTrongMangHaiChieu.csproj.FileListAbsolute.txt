@@ -1,0 +1,14 @@
+E:\TimPhanTuLonNhatTrongMangHaiChieu\bin\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.exe
+E:\TimPhanTuLonNhatTrongMangHaiChieu\bin\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.deps.json
+E:\TimPhanTuLonNhatTrongMangHaiChieu\bin\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.runtimeconfig.json
+E:\TimPhanTuLonNhatTrongMangHaiChieu\bin\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.dll
+E:\TimPhanTuLonNhatTrongMangHaiChieu\bin\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.pdb
+E:\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.GeneratedMSBuildEditorConfig.editorconfig
+E:\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.AssemblyInfoInputs.cache
+E:\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.AssemblyInfo.cs
+E:\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.csproj.CoreCompileInputs.cache
+E:\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.dll
+E:\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\net8.0\refint\TimPhanTuLonNhatTrongMangHaiChieu.dll
+E:\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.pdb
+E:\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\net8.0\TimPhanTuLonNhatTrongMangHaiChieu.genruntimeconfig.cache
+E:\TimPhanTuLonNhatTrongMangHaiChieu\obj\Debug\net8.0\ref\TimPhanTuLonNhatTrongMangHaiChieu.dll
